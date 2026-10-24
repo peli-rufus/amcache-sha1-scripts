@@ -126,4 +126,4 @@ Amcache records can provide valuable historical file metadata, even when an orig
 
 ## Licensing
 
-No license file has been added yet. The repository owner can choose a license separately.
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for the full license text.
